@@ -9,6 +9,12 @@ En que consiste este proyecto:
 
 ## Requerimientos
 
+Descargar el proyecto:
+
+```
+$ git clone https://github.com/cysorianop/barberia_shop_django.git
+```
+
 Una vez descargado el repositorio, se debe tener instalado:
 - Python 3.12.1
 - Django 5.0.1
